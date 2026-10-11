@@ -1,5 +1,7 @@
 # Hermes Research Workflow
 
+From web research to critical analysis and lasting knowledge — powered by natural-language agent skills.
+
 **A skill-driven, multi-agent research workflow for Hermes CLI — from web research and critical analysis to a structured knowledge base in Obsidian.**
 
 Hermes Research Workflow is a collection of specialized agent skills defined in natural language through `SKILL.md` files.
